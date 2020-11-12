@@ -1,0 +1,6 @@
+export const  INCREMENT = 'increment'
+export const  DECREMENT = 'decrement'
+export const  ADDCOUNT = 'addCount'
+export const  ADDSTUDENT = 'addStudent'
+export const  UPDATEINFO = 'updateInfo'
+export const  AUPDATEINFO = 'aUpdateInfo'
